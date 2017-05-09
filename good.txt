@@ -4,3 +4,4 @@ Creating a new branch is quick AND & simple.2017-5-8 7:49
 vancekq add by 2017-5-9
 git is free soft
 git stash
+add by only dev 
